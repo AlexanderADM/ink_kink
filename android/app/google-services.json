@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "849345898847",
+    "firebase_url": "https://inkkink-d9ac1.firebaseio.com",
+    "project_id": "inkkink-d9ac1",
+    "storage_bucket": "inkkink-d9ac1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849345898847:android:ce29dc683f8f069f73eeea",
+        "android_client_info": {
+          "package_name": "com.example.ink_kink"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849345898847-iabpimioot7o3gbpg798jvb2plsd8sof.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4n8Aurm1qImLLzH2eoCLjXW4Ghmk6G_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849345898847-iabpimioot7o3gbpg798jvb2plsd8sof.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
